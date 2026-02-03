@@ -1,17 +1,9 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="GHBanner" src="https://jxlwtljgztyilntjxapm.supabase.co/storage/v1/object/sign/ECAM/ecamlogo.png?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9lMDgxOTE4ZS02NWM3LTRjYTMtOWQxMy1lNDY5YjU0ZDA3OGYiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJFQ0FNL2VjYW1sb2dvLnBuZyIsImlhdCI6MTc3MDE0ODQ1NCwiZXhwIjoxODAxNjg0NDU0fQ.ErPjqLYmQjhcr9kGtLADdpacDztqLQtB2yNbpEZsfQE" />
 </div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1cUhCEmI55dX1az1PV6kgo4H2FeadEQ5F
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
