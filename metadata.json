@@ -1,0 +1,5 @@
+{
+  "name": "ECAM - École et Collège de l'Alliance Morondava",
+  "description": "Logiciel de gestion scolaire sur mesure (Petite Section à Terminale). Gestion administrative, pédagogique et financière avec séparation stricte des rôles.",
+  "requestFramePermissions": []
+}
